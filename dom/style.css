@@ -1,0 +1,119 @@
+#k1 {
+    position: absolute;
+    left: 524px;
+    top: 227px;
+    width: 400px;
+    height: 400px;
+    background: brown;
+    border: 3px solid black;
+}
+
+#k2 {
+    position: absolute;
+    left: 754px;
+    top: 408px;
+    width: 350px;
+    height: 0;
+    border-bottom: 50px solid #600000;
+    border-left: 0px solid transparent;
+    border-right: 50px solid transparent;
+    transform: rotate(90deg);
+}
+
+#k2_1 {
+    position: absolute;
+    left: 753px;
+    top: 352px;
+    width: 350px;
+    height: 0;
+    border-bottom: 50px solid #600000;
+    border-left: 0px solid transparent;
+    border-right: 50px solid transparent;
+    transform: rotate(270deg);
+}
+
+#t1 {
+    position: absolute;
+    left: 522px;
+    top: 97px;
+    width: 0;
+    height: 0;
+    border-left: 203px solid transparent;
+    border-right: 203px solid transparent;
+    border-bottom: 130px solid #a7a7a8;
+}
+
+#t2 {
+    position: absolute;
+    left: 815px;
+    top: 9px;
+    width: 0;
+    height: 0;
+    transform: rotate(303deg);
+    border-bottom: 255px solid #888888;
+    border-right: 100px solid transparent;
+    border-right-width: 70px;
+}
+
+#k3 {
+    position: absolute;
+    top: 476px;
+    left: 650px;
+    width: 120px;
+    height: 150px;
+    background: rgb(113, 30, 5);
+    border: 3px solid black;
+}
+
+#text {
+    position: absolute;
+    left: 650px;
+    top: 180px;
+    font-size: 30px;
+}
+
+#text2 {
+    position: absolute;
+    left: 580px;
+    top: 250px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#inp2 {
+    position: absolute;
+    left: 530px;
+    top: 300px;
+}
+
+#text3 {
+    position: absolute;
+    left: 780px;
+    top: 350px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#inp3 {
+    position: absolute;
+    left: 750px;
+    top: 400px;
+}
+
+#text4 {
+    position: absolute;
+    left: 670px;
+    top: 500px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#krug {
+    position: absolute;
+    left: 740px;
+    top: 550px;
+    width: 20px;
+    height: 20px;
+    background: black;
+    border-radius: 50%;
+}
